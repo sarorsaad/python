@@ -1,0 +1,1 @@
+# create a python script that can count how many words the use type per minute

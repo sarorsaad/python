@@ -1,0 +1,1 @@
+# create a python script that takes a money with currency sign and convert it to some other currencies , the code should be like the game we did before
